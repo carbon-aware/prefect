@@ -3,7 +3,7 @@ name = "carbonaware-prefect"
 version = "0.1.1"
 description = "CarbonAware integration for Prefect"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = [
     "carbonaware-scheduler-client>=1.0.0",
     "httpx>=0.28.1",
